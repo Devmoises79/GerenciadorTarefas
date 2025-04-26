@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfo.cs
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.exe
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.deps.json
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.runtimeconfig.json
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.dll
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.pdb
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.dll
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\refint\GerenciadorTarefas.dll
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.pdb
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.genruntimeconfig.cache
+C:\Users\MOISÉS\Desktop\GerenciadorTarefas\obj\Debug\net8.0\ref\GerenciadorTarefas.dll
